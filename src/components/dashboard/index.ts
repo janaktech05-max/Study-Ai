@@ -1,0 +1,9 @@
+export { Sidebar } from './Sidebar';
+export { Header } from './Header';
+export { DashboardHome } from './DashboardHome';
+export { UploadPage } from './UploadPage';
+export { NotesPage } from './NotesPage';
+export { FlashcardsPage } from './FlashcardsPage';
+export { MCQPage } from './MCQPage';
+export { QuestionBankPage } from './QuestionBankPage';
+export { MindMapPage } from './MindMapPage';
